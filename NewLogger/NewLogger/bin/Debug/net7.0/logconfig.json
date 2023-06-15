@@ -1,0 +1,29 @@
+{
+    "default": {
+        "level":"info",
+        "transport": {
+            "console": false,
+            "file": false,
+            "api": true,
+            "db": false
+        }
+    },
+    "Test_V1": {
+        "level": "verbose",
+        "transport": {
+            "console": true,
+            "file": true,
+            "api": true,
+            "db": false
+        }
+    },
+    "Test_V2": {
+        "level": "error",
+        "transport": {
+            "console": true,
+            "file": false,
+            "api": false,
+            "db": false
+        }
+    }
+}

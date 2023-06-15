@@ -1,0 +1,15 @@
+C:\Caesars\NewLogger\NewLogger\bin\Debug\net7.0\NewLogger.exe
+C:\Caesars\NewLogger\NewLogger\bin\Debug\net7.0\NewLogger.deps.json
+C:\Caesars\NewLogger\NewLogger\bin\Debug\net7.0\NewLogger.runtimeconfig.json
+C:\Caesars\NewLogger\NewLogger\bin\Debug\net7.0\NewLogger.dll
+C:\Caesars\NewLogger\NewLogger\bin\Debug\net7.0\NewLogger.pdb
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.csproj.AssemblyReference.cache
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.AssemblyInfoInputs.cache
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.AssemblyInfo.cs
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.csproj.CoreCompileInputs.cache
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.dll
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\refint\NewLogger.dll
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.pdb
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\NewLogger.genruntimeconfig.cache
+C:\Caesars\NewLogger\NewLogger\obj\Debug\net7.0\ref\NewLogger.dll
